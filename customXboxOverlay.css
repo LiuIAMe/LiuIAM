@@ -1,6 +1,6 @@
  .xbox-old .stick !important {
   position: absolute;
-  background: url(xbox-assets-old/stick.png);
+  background: url(xbox-assets/stick.png);
   height: 86px;
   width: 86px;
 }
