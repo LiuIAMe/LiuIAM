@@ -10,3 +10,12 @@
   height: 86px;
   width: 86px;
 }
+
+
+
+ .xbox .stick {
+  position: absolute;
+  background: url('https://imgur.com/a/GOSpTm9');
+  height: 86px;
+  width: 86px;
+}
