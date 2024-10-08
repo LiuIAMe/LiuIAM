@@ -4,3 +4,9 @@
   height: 86px;
   width: 86px;
 }
+ .xbox .stick {
+  position: absolute;
+  background: url('https://github.com/LiuIAMe/LiuIAM/blob/main/xbox-assets/stick.svg');
+  height: 86px;
+  width: 86px;
+}
